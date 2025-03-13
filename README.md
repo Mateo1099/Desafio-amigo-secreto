@@ -29,7 +29,7 @@ Este proyecto es una aplicación web simple que permite a los usuarios ingresar 
 ## 🔗 Acceso al Proyecto
 Puedes acceder al código fuente en GitHub:
 
-[🔗 Repositorio en GitHub](https://github.com/tuusuario/tu-repositorio)
+[Repositorio en GitHub](https://github.com/Mateo1099/Desafio-amigo-secreto.git)
 
 ## 🛠 Tecnologías Utilizadas
 
