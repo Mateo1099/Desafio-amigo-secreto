@@ -1,6 +1,6 @@
 # Desafío Amigo Secreto
 
-![Portada del Proyecto](assets/banner-github.png)
+![Portada del Proyecto](assets/banner)
 
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-Completado-green)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
