@@ -40,7 +40,8 @@ Puedes acceder al código fuente en GitHub:
 
 ## 👨‍💻 Personas Contribuyentes
 
-- **Mateo Trujillo Estrada**
+[Mi perfil en GitHub](https://github.com/Mateo1099)
+
 
 ## 📜 Licencia
 
